@@ -1,5 +1,4 @@
 import scrapetube
-from pytube import YouTube
 from youtube_tool import download_youtube_video
 
 videos = scrapetube.get_search("soccer match")
